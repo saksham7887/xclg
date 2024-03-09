@@ -1,0 +1,46 @@
+.navbartop {
+    text-align: center;
+}
+
+
+
+.nav_ul a {
+    font-size: 1rem;
+    color: black;
+    font-weight: 500;
+    text-decoration: none;
+}
+ 
+.logoa{
+    width: 40% ;
+}
+/* @media (min-width: 576px) {
+    
+    .logoa{
+        width: 2rem ;
+    }
+}
+
+@media (min-width: 768px) {
+    .logoa{
+        width: 3rem ;
+    }
+}
+
+@media (min-width: 992px) {
+    .logoa{
+        width: 4rem ;
+    }
+}
+
+@media (min-width: 1200px) {
+    .logoa{
+        width: 6rem ;
+    }
+}
+
+@media (min-width: 1400px) {
+    .logoa{
+        width: 7rem ;
+    }
+} */
